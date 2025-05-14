@@ -1,6 +1,4 @@
-# Hi there, I'm Rohil Jain 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+# Hi, I'm Rohil Jain 👋
 
 ## 💼 About Me
 
@@ -9,14 +7,13 @@
 - 🧠 Currently researching AI models for cancer solutions @ UNC Gillings School of Global Public Health
 - ⚡ Fun fact: I’m a 1st-degree black belt in Taekwondo and I grow my own eggplants 🍆
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages:** Python, Java, SQL, C
+**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Git, PyTorch  
+**Cloud/Data:** AWS (Glue, Lambda, Redshift), PostgreSQL  
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+**Backend:** Node.js, Express
 
 ## 📚 Clubs & Activities
 
@@ -25,6 +22,11 @@
 - 🌎 Professional Development Chair @ Undergraduate International Business Club
 - 🤖 Member @ AI@UNC
 - 💼 Former SWE Intern @ AdhereHealth
+
+## 🌐 Personal Website
+
+Check out my portfolio and projects:  
+🔗 [your-website.com](https://rohiljain2.github.io/rohil-website/)
 
 ## 📫 Connect with Me
 

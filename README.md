@@ -4,13 +4,10 @@
 
 ## 💼 About Me
 
-- 🔭 I’m currently working on: [Your project or interest]
-- 🌱 I’m currently learning: [Technologies or skills you're learning]
-- 👯 I’m looking to collaborate on: [Projects or topics]
-- 🤔 I’m looking for help with: [Anything you're struggling with]
-- 💬 Ask me about: [Topics you know well]
-- 📫 How to reach me: [Your email or LinkedIn]
-- ⚡ Fun fact: [Something interesting or quirky about you]
+- 🎓 Student @ UNC Chapel Hill | CS + Business | PPE Minor
+- 💡 Passionate about HealthTech VC, AI for good, and sustainable innovation
+- 🧠 Currently researching AI models for cancer solutions @ UNC Gillings School of Global Public Health
+- ⚡ Fun fact: I’m a 1st-degree black belt in Taekwondo and I grow my own eggplants 🍆
 
 ## 🛠️ Languages and Tools
 
@@ -21,14 +18,15 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 📈 GitHub Stats
+## 📚 Clubs & Activities
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+- 🩺 Healthcare Sector Analyst @ UNC Impact Investing Club ($100K AUM)
+- 📈 Portfolio Analyst & Head of Outreach @ UNC Quantitative Finance Association
+- 🌎 Professional Development Chair @ Undergraduate International Business Club
+- 🤖 Member @ AI@UNC
+- 💼 Former SWE Intern @ AdhereHealth
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<!-- Replace `your-github-username` and links with your actual info -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohil-jain-b5370a28b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohil.jain.66@gmail.com)

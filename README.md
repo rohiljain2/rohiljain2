@@ -5,15 +5,15 @@
 - 🎓 Student @ UNC Chapel Hill | CS + Business | PPE Minor
 - 💡 Passionate about HealthTech VC, AI for good, and sustainable innovation
 - 🧠 Currently researching AI models for cancer solutions @ UNC Gillings School of Global Public Health
-- ⚡ Fun fact: I’m a 1st-degree black belt in Taekwondo and I grow my own eggplants 🍆
+- ⚡ Fun fact: I’m a 1st-degree black belt in Taekwondo!
 
 ## 🛠️ Tech Skills
 
-**Languages:** Python, Java, SQL, C
-**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Git, PyTorch  
-**Cloud/Data:** AWS (Glue, Lambda, Redshift), PostgreSQL  
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind  
-**Backend:** Node.js, Express
+- Languages: Python, Java, SQL, C
+- Libraries & Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Git, PyTorch
+- Cloud/Data: AWS (Glue, Lambda, Redshift), PostgreSQL
+- Frontend: HTML, CSS, JavaScript, React, Tailwind  
+- Backend: Node.js, Express
 
 ## 📚 Clubs & Activities
 
@@ -26,7 +26,7 @@
 ## 🌐 Personal Website
 
 Check out my portfolio and projects:  
-🔗 [your-website.com](https://rohiljain2.github.io/rohil-website/)
+🔗 [https://rohiljain2.github.io/rohil-website/](https://rohiljain2.github.io/rohil-website/)
 
 ## 📫 Connect with Me
 
